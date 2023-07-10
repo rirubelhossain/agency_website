@@ -152,3 +152,36 @@
     color: white;
     font-weight: bold;
 }
+.box-1{
+    width: 350px;
+    height: 400px;
+    background-color:white;
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px grey;
+}
+.im-blog{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px;
+}
+.content-box{
+    display: flex;
+    height: 50vh;
+    align-items: center;
+    gap: 5pxpx;
+    justify-content: space-around;
+}
+.content-blog{
+    text-align: center;
+    margin-top: 90px;
+    padding: 10px;
+}
+.content-title{
+    margin-bottom: 5px;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.box-title{
+    
+}
