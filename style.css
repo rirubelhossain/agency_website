@@ -16,3 +16,41 @@
     gap: 15px;
     font-size: 17px;
 }
+
+.banner-container{
+    background-image: url("./asset/image/background.jpg"),linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.4));
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    
+}
+.banner-info{
+    padding-left: 350px;
+     
+}
+
+.banner-title{
+    color: white;
+    font-size: 60px;
+}
+.banner-p{
+    color: white;
+    font-size: 20px;
+}
+.btn-primay{
+    margin-top: 20px;
+    color: white;
+    background-color: red;
+    padding: 15px;
+    border: 0;
+    margin-right:10px ;
+    
+}
+.white-col{
+    background-color: white;
+    color: black;
+}
