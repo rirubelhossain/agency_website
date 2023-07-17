@@ -68,7 +68,9 @@
     color: white;
     display: flex;
     align-items: center;
-    padding: 20px;
+    /* padding: 20px; */
+    justify-content: center;
+    /* margin-right: 40px; */
     
 }
 .icon{
@@ -84,6 +86,7 @@
     text-align: center;
     border-radius: 5px;
     box-shadow: 4px 4px 8px gray;
+    
 }
 .service-description{
     width: 50%;
